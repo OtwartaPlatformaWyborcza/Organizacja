@@ -18,11 +18,12 @@ Sortowanie alfabetyczne po imieniu.
 | RafałR | Analiza |
 | RobertP | Analiza |
 
-**Jak do nas dołączyć?**  
+#Jak do nas dołączyć?
 Aby do nas dołączyć utwórz proszę nowy issue w odpowiednim repozytorium. Komunikacja odbywa się poprzez E-Mail i Skype. 
 
 **Aktualnie poszukujemy**  
-1. Doświadczonego architekta REST, który pomoże nam ulepszyć aktualny serwis (security, best practices ipt.).  
-2. Doświadczonego administratora Jenkins. Mamy aktualnie skonfigurowany CI pipeline dla 3 projektów (OPW, [OPW AngularJS](https://github.com/marcintokarski/OtwartaPlatformaWyborczaFronted) jak i [OpenPKW POC_Kalkulator](https://github.com/openpkw/PocKalkulatorWyborczyHtml)) ale na pewno da się to zrobić o wiele lepiej.  
-3. Doświadczonego administratora kontenera Java EE GlassFish 4.1 bądź WildFly 8.2.0. Celem jest konfiguracja produkcyjnego clustera.  
-4. Grafika do opracowania ikonografiki (przyciski) programu, tła, liternictwa, oraz głównego symbolu znaku graficznego / logo programu.  
+1. Doświadczonego architekta REST, który pomoże nam dalej rozwijać nasze serwisy (security, best practices ipt.).  
+2. Doświadczonego administratora kontenera Java EE GlassFish 4.1, Tomcat8 bądź WildFly 8.2.0. 
+3. Grafika do opracowania ikonografiki (przyciski) programu, tła, liternictwa, oraz głównego symbolu znaku graficznego / logo programu.  
+
+
