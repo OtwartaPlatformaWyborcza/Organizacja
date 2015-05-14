@@ -19,11 +19,13 @@ Sortowanie alfabetyczne po imieniu.
 | RobertP | Analiza |
 
 #Jak do nas dołączyć?
-Aby do nas dołączyć utwórz proszę nowy issue w odpowiednim repozytorium. Komunikacja odbywa się poprzez E-Mail i Skype. 
+Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytorium. Komunikacja odbywa się poprzez E-Mail i Skype. 
 
 **Aktualnie poszukujemy**  
 1. Doświadczonego architekta REST, który pomoże nam dalej rozwijać nasze serwisy (security, best practices ipt.).  
 2. Doświadczonego administratora kontenera Java EE GlassFish 4.1, Tomcat8 bądź WildFly 8.2.0. 
 3. Grafika do opracowania ikonografiki (przyciski) programu, tła, liternictwa, oraz głównego symbolu znaku graficznego / logo programu.  
+4. Doświadczonych programistów Java, Java EE, AngularJS. 
+5. Doświadczonego administratora baz danych PostreSQL.
 
 
