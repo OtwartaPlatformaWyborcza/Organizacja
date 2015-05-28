@@ -23,7 +23,7 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 
 **Aktualnie poszukujemy**  
 1. Doświadczonego architekta REST, który pomoże nam dalej rozwijać nasze serwisy (security, best practices ipt.).  
-2. Doświadczonego administratora kontenera Java EE GlassFish 4.1, Tomcat8 bądź WildFly 8.2.0. 
+2. Doświadczonego administratora kontenera Java EE GlassFish 4.1 bądź WildFly 8.2.0. 
 3. Grafika do opracowania ikonografiki (przyciski) programu, tła, liternictwa, oraz głównego symbolu znaku graficznego / logo programu.  
 4. Doświadczonych programistów Java, Java EE, AngularJS. 
 5. Doświadczonego administratora baz danych PostreSQL.
