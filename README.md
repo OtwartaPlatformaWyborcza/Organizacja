@@ -22,7 +22,7 @@ Sortowanie alfabetyczne po imieniu.
 Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytorium. Komunikacja odbywa się poprzez E-Mail i Skype. 
 
 
-**Zapraszamy do współpracy**
+**Zapraszamy do współpracy**  
 1. Doświadczonego architekta REST, który pomoże nam dalej rozwijać nasze serwisy (security, best practices ipt.).  
 2. Doświadczonego administratora kontenera Java EE GlassFish 4.1 bądź WildFly 8.2.0.  
 3. Grafików którzy pomogą nam stworzyć jednolitą i przejrzystą identyfikację wizualną dla OPW: infografiki, kolorystyka, typografia.   
