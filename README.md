@@ -31,3 +31,5 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 6. Administratora baz danych PostreSQL.  
 7. Informatyków gminnych.   
 8. Osoby które z perspektywy obywatela pomogą nam edukować i czynić polskie prawo wyborcze bardziej przejrzystym i zrozumiałym.   
+
+# Linki
