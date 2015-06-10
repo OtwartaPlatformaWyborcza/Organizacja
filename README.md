@@ -29,3 +29,5 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 5. Doświadczonego administratora baz danych PostreSQL.
 
 
+#Linki
+
