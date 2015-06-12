@@ -37,4 +37,4 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 * https://otwartapw.pl/
 * http://otwartapw.atlassian.net/
 * https://trello.com/b/hKes4OCP/otwarta-platforma-wyborcza 
-
+* https://twitter.com/otwartapw
