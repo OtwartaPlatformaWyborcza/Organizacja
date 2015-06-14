@@ -38,3 +38,9 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 * http://otwartapw.atlassian.net/
 * https://trello.com/b/hKes4OCP/otwarta-platforma-wyborcza 
 * https://twitter.com/otwartapw
+
+
+# Roadmap
+1. Demobilizacja infrastruktury PROD  
+2. Konfiguracja stage TEST i PROD na serwerze JPROD
+3. 
