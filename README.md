@@ -1,6 +1,7 @@
 # Otwarta Platforma Wyborcza 
 Stanowimy inicjatywę obywatelską która postawiła sobie za cel, stworzenie systemu informatycznego umożliwiającego niezależną jak i obiektywną weryfikację wyników wyborów. Tworzymy niedochodowy i niezaangażowany politycznie projekt obywatelski.  
-Naszym głównym produktem jest system Otwarta Platforma Wyborcza (OPW). OPW to oprogramowanie klasy enterprise, którego podstawowym zadaniem jest niezależna i obiektywna weryfikacja wyników wyborów. Celem projektu OPW nie jest kompletna implementacja wymagań sprecyzowanych przez PKW w ramach projektu PW2 (Platforma Wyborcza 2). 
+Naszym głównym produktem jest system Otwarta Platforma Wyborcza (OPW). OPW to oprogramowanie klasy enterprise, którego podstawowym zadaniem jest niezależna i obiektywna weryfikacja wyników wyborów.  
+Celem projektu OPW nie jest kompletna implementacja wymagań sprecyzowanych przez PKW w ramach projektu PW2 (Platforma Wyborcza 2). 
 
 # Członkowie
 Sortowanie alfabetyczne po imieniu.  
@@ -30,7 +31,8 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 5. Programistów JavaScript - AngularJS, jQuery.  
 6. Administratora baz danych PostreSQL.  
 7. Informatyków gminnych.   
-8. Osoby które z perspektywy obywatela pomogą nam edukować i czynić polskie prawo wyborcze bardziej przejrzystym i zrozumiałym.   
+8. Osoby które z perspektywy obywatela pomogą nam edukować i czynić polskie prawo wyborcze bardziej przejrzystym i zrozumiałym.  
+9. Osoby zainteresowane polskim prawem bądź procesem wyborczym.   
 
 
 # Linki
@@ -39,8 +41,19 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 * https://trello.com/b/hKes4OCP/otwarta-platforma-wyborcza 
 * https://twitter.com/otwartapw
 
+# Projekty
+
+## OPW
+Otwarta Platforma Wyborcza
+
+## OOW
+Otwarte Organy Wyborcze 
+
+# Historia
+
+
 
 # Roadmap
-1. Demobilizacja infrastruktury PROD  
-2. Konfiguracja stage TEST i PROD na serwerze JPROD
-3. 
+1. [2015.05] Demobilizacja infrastruktury OPW/PROD dla akji wyborczej Prezydent 2015   
+2. Konfiguracja środowiska DEV, TEST i PROD na serwerze JPROD dla akcji wyborczej Referendum 2015
+3. Konfiguracja JIRA, Confluence
