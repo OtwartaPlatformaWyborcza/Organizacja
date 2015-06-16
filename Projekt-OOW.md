@@ -46,3 +46,11 @@ adres
 
 
 
+
+# Projekt i wykonanie 
+Koncepcja systemu
+  Architektura
+Analiza przypadków użycia 
+Specyfikacja bazz danych 
+
+

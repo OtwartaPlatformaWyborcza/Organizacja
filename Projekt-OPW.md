@@ -11,10 +11,17 @@ Wszelkie moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 | Unia Europejska  | `eu` | ? |
 
 
-Przykładowa struktura pakietów `PRE`  
-`pl.otwartapw.opw.pre.mgmt`  
+Przykładowa struktura pakietów dla modułu `PRE`  
+`pl.otwartapw.opw.pre.entity`  
+`pl.otwartapw.opw.pre.bean`  
+`pl.otwartapw.opw.pre.management.controller`  
+`pl.otwartapw.opw.pre.management.dto`  
+`pl.otwartapw.opw.pre.management.handler`  
+`pl.otwartapw.opw.pre.register`  
 `pl.otwartapw.opw.pre.ws.import`  
 `pl.otwartapw.opw.pre.ws.export`  
+`pl.otwartapw.opw.pre.ws.management`  
+`pl.otwartapw.opw.pre.ws.register`  
 
 
 Podział na artefakty na przykładzie `PRE`. 
