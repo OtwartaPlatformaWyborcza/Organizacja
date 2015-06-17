@@ -1,3 +1,6 @@
+# System OPW 
+Otwarta Platforma Wyborcza
+
 # Moduły
 Wszelkie moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 
@@ -27,7 +30,7 @@ Przykładowa struktura pakietów dla modułu `PRE`
 Podział na artefakty na przykładzie `PRE`. 
 
 
-| Pakiet | Paczki | Kommentarz |
+| Artefakt | Paczki | Kommentarz |
 | ------------- | ------------- | ------------- |
 | opw-pre-base | `.entity` `.bean` `.api` | JPA, API |
 | opw-pre-managemet | `.view` `.dto` `.controller` | Maski administracyjne (JSF 2.2) |
