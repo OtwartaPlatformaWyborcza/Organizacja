@@ -1,3 +1,7 @@
+# Otwarte Organy Wyborcze OOW 
+Organ wyborczy to instytucja odpowiedzialna za zorganizowanie, przygotowanie i przeprowadzenie powszechnego głosowania w ramach wyborów (lub odpowiednio referendów), w tym ustalenie ich wyników.  
+Celem projektu OOW jest realizacja oprogramowania do do obsługi organów wyborczych przed, w trakcie jak i po zakończeniu dowolnej akcji wyborczej. 
+
 
 
 **Moduł B.** Organy wyborcze.  
@@ -10,8 +14,6 @@ Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wy
 Definicja organu wyborczego?
 
 Odp:
-Organ wyborczy – instytucja odpowiedzialna za zorganizowanie, przygotowanie i przeprowadzenie  
-powszechnego głosowania w ramach wyborów (lub odpowiednio referendów), w tym ustalenie ich wyników.  
 
 W Polsce organami wyborczymi są:  
 
@@ -39,9 +41,9 @@ w formacie XML;
 
 
 Lista objektow 
-Osoba 
-komisja (typ, czlonkowie)
-akcjaWyborcza
+Osoba (imie, nazwisko, pesel) 
+AkcjaWyborcza (id, nazwa, typAkcji, dateFrom, dateTo)
+komisja (typ, czlonkowie, adres, nazwa)
 adres
 
 
