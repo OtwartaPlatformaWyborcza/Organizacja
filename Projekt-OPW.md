@@ -1,10 +1,8 @@
 # System OPW 
 Otwarta Platforma Wyborcza
 
-# Moduły
-Wszelkie moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
-
- 
+# Architektura
+System OPW składa się z następujących, wpełni niezależnych modułów.
 
 | Moduł | prefix | Kommentarz |
 | ------------- | ------------- | ------------- |
@@ -13,10 +11,17 @@ Wszelkie moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 | Parlamentarne  | `par` | Wybory parlamentarne (Sejm i Senat) |
 | Unia Europejska  | `eu` | ? |
 
+Poszczególne moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 
-Przykładowa struktura pakietów dla modułu `PRE`  
-`pl.otwartapw.opw.pre.entity`  
+
+
+
+## Moduł PRE
+
+Struktura pakietów.  
+`pl.otwartapw.opw.pre.api`  
 `pl.otwartapw.opw.pre.bean`  
+`pl.otwartapw.opw.pre.entity`  
 `pl.otwartapw.opw.pre.management.controller`  
 `pl.otwartapw.opw.pre.management.dto`  
 `pl.otwartapw.opw.pre.management.handler`  
@@ -27,7 +32,7 @@ Przykładowa struktura pakietów dla modułu `PRE`
 `pl.otwartapw.opw.pre.ws.register`  
 
 
-Podział na artefakty na przykładzie `PRE`. 
+Podział na artefakty. 
 
 
 | Artefakt | Paczki | Kommentarz |
