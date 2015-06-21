@@ -28,8 +28,6 @@ Moduł dedykowany do obsługi Wyborów prezydenckich.
 | opw-pre-ws-export | `.service` `.dto` `.controller` | Serwis eksportu - odczyt bazy danych |
 | opw-pre-ws-managemet | `.service` `.dto` `.controller` | Serwis administracyjny |
 | opw-pre-ws-register | `.service` `.dto` `.controller` | Serwis rejestracji |
-| opw-pre-client-dashboard-jquery |  |  |
-| opw-pre-client-obwodowa-angularjs |  |  |
 
 ### Struktura pakietów (backend)
 `pl.otwartapw.opw.pre.api`  
