@@ -1,5 +1,8 @@
 # System OPW 
-Otwarta Platforma Wyborcza
+Otwarta Platforma Wyborcza (OPW) to oprogramowanie klasy enterprise, którego podstawowym zadaniem jest niezależna i obiektywna weryfikacja wyników wyborów.
+Celem projektu OPW nie jest kompletna implementacja wymagań sprecyzowanych przez PKW w ramach projektu PW2 (Platforma Wyborcza 2). 
+
+
 
 # Architektura
 System OPW składa się z następujących, wpełni niezależnych modułów.
