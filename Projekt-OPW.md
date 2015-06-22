@@ -60,3 +60,21 @@ opw-ref-ws-export
 opw-ref-ws-management
 opw-ref-ws-register
 
+
+Komisarz wyborczy 
+komisja obwodowa 
+pkw 
+wyborcy 
+pytanie proste tak / nie 
+pytanie wariantowe / zlozone kilka odpowiedzi, multiple choice 
+
+
+
+perpektywa / scope / frekwencja 
+krajowa 
+
+komisja obwodowa - gmina - powiat - wojewodztwo 
+
+rodzaje obwodow takie same przy prezydenckich
+
+
