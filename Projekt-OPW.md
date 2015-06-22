@@ -46,3 +46,17 @@ Moduł dedykowany do obsługi Wyborów prezydenckich.
 `opw-client-obwodowa-angularjs`  
 `opw-client-dashboard-jquery`  
 
+
+## Moduł REF
+
+### Artefakty 
+
+| Artefakt | | Komentarz |
+opw-ref-base
+opw-ref-management
+opw-ref-register
+opw-ref-ws-import
+opw-ref-ws-export
+opw-ref-ws-management
+opw-ref-ws-register
+
