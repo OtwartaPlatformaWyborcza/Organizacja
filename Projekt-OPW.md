@@ -15,7 +15,7 @@ System OPW składa się z następujących, wpełni niezależnych modułów.
 Poszczególne moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 
 ## Moduł PRE
-Moduł dedykowany do obsługi Wyborów prezydenckich. 
+Dedykowany moduł do obsługi wyborów prezydenckich. 
 
 ### Artefakty
 
@@ -48,17 +48,19 @@ Moduł dedykowany do obsługi Wyborów prezydenckich.
 
 
 ## Moduł REF
+Dedykowany moduł do obsługi referendum. 
 
 ### Artefakty 
 
 | Artefakt | | Komentarz |
-opw-ref-base
-opw-ref-management
-opw-ref-register
-opw-ref-ws-import
-opw-ref-ws-export
-opw-ref-ws-management
-opw-ref-ws-register
+| ------------- | ------------- | ------------- |
+| opw-ref-base | | |
+| opw-ref-management | | |
+| opw-ref-register | | |
+| opw-ref-ws-import | | |
+| opw-ref-ws-export | | |
+| opw-ref-ws-management | | |
+| opw-ref-ws-register | | |
 
 
 Komisarz wyborczy 
