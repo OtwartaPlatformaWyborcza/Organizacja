@@ -1,6 +1,6 @@
-# Otwarte Organy Wyborcze OOW 
-Organ wyborczy to instytucja odpowiedzialna za zorganizowanie, przygotowanie i przeprowadzenie powszechnego głosowania w ramach wyborów (lub odpowiednio referendów), w tym ustalenie ich wyników.  
-Celem projektu OOW jest realizacja oprogramowania do do obsługi organów wyborczych przed, w trakcie jak i po zakończeniu dowolnej akcji wyborczej. 
+# System OOW 
+Otwarte Organy Wyborcze (OOW) to wpełni niezależny system do zażądzania organami wyborczymi. *Organ wyborczy* to instytucja odpowiedzialna za zorganizowanie, przygotowanie i przeprowadzenie powszechnego głosowania w ramach wyborów (lub odpowiednio referendów), w tym ustalenie ich wyników.  
+Celem projektu *OOW* jest realizacja oprogramowania do obsługi organów wyborczych przed, w trakcie jak i po zakończeniu dowolnej akcji wyborczej. 
 
 
 
