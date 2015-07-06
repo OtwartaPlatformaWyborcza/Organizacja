@@ -52,14 +52,14 @@ Dedykowany moduł do obsługi referendum.
 
 ### Artefakty 
 
-| Artefakt | | Komentarz |
+| Artefakt | Pakiety | Komentarz |
 | ------------- | ------------- | ------------- |
-| opw-ref-base | | |
-| opw-ref-management | | |
+| opw-ref-base | | Dokumentacja, Analiza, JPA, DTO  |
+| opw-ref-management | | Maski administracyjne |
 | opw-ref-register | | |
 | opw-ref-ws-import | | |
 | opw-ref-ws-export | | |
-| opw-ref-ws-management | | |
+| opw-ref-ws-management | | Serwis administracyjny REST  |
 | opw-ref-ws-register | | |
 
 
