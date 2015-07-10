@@ -46,7 +46,7 @@ Aby do nas dołączyć utwórz proszę nowy issue bezpośrednio w tym repozytori
 System [OPW](https://github.com/OtwartaPlatformaWyborcza/Organizacja/blob/master/Projekt-OPW.md) (Otwarta Platforma Wyborcza) to nasz główny produkt. 
 
 ## OOW
-Otwarte Organy Wyborcze 
+System [OOW](https://github.com/OtwartaPlatformaWyborcza/Organizacja/blob/master/Projekt-OOW.md) (Otwarte Organy Wyborcze) 
 
 # Historia
 
