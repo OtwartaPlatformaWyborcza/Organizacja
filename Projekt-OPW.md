@@ -50,7 +50,7 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 ## Moduł REF
 Dedykowany moduł do obsługi referendum. 
 
-### Artefakty 
+### Artefakty Backend
 
 | Artefakt | Pakiety | Komentarz |
 | ------------- | ------------- | ------------- |
@@ -62,6 +62,8 @@ Dedykowany moduł do obsługi referendum.
 | opw-ref-ws-management | | Serwis administracyjny REST  |
 | opw-ref-ws-register | | |
 
+### Artefakty Frontend 
+* opw-ref-dashboad 
 
 Komisarz wyborczy 
 komisja obwodowa 
