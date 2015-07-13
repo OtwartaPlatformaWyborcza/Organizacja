@@ -22,16 +22,14 @@ stałe organy wyborcze, powołane na określoną kadencję:
    - Państwowa Komisja Wyborcza  
    - komisarze wyborczy  
 
-doraźne komisje wyborcze, powoływane do przeprowadzenia konkretnych wyborów lub referendów  
-i rozwiązywane po wykonaniu ich ustawowych zadań:  
+doraźne komisje wyborcze, powoływane do przeprowadzenia konkretnych wyborów lub referendów i rozwiązywane po wykonaniu ich ustawowych zadań:  
    - okręgowe komisje wyborcze (w wyborach parlamentarnych, prezydenckich, europejskich);  
-   - terytorialne komisje wyborcze (w wyborach samorządowych): wojewódzka, powiatowa  
+   - terytorialne komisje wyborcze (w wyborach samorządowych): wojewódzka, powiatowa (w Warszawie: dzielnicowa)  
    i gminna (miejska) komisja wyborcza;  
-   - terytorialne komisje ds. referendum (w referendum lokalnym): wojewódzka, powiatowa  
-   i gminna (miejska) komisja do spraw referendum;  
+   - terytorialne komisje ds. referendum - w referendum lokalnym odpowiednio do obszaru objętego referendum: wojewódzka,         powiatowa lub gminna (miejska) komisja do spraw referendum;  
    - rejonowe komisje wyborcze (w wyborach europejskich);  
-   - obwodowe komisje wyborcze (we wszystkich wyborach oraz w referendum ogólnokrajowym);  
-   - obwodowa komisja ds. referendum (w referendum lokalnym).  
+   - obwodowe komisje wyborcze (we wszystkich wyborach);  
+   - obwodowa komisja ds. referendum (w referendum lokalnym oraz w referendum ogólnokrajowym).  
 
 W module tym również:
 - webserwis umożliwiający pobranie danych o składzie wybranego organu wyborczego,
