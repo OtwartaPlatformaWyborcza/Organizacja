@@ -49,22 +49,7 @@ System [OPW](https://github.com/OtwartaPlatformaWyborcza/Organizacja/blob/master
 System [OOW](https://github.com/OtwartaPlatformaWyborcza/Organizacja/blob/master/Projekt-OOW.md) (Otwarte Organy Wyborcze) 
 
 ## ODW 
-Otwarta Drukarka Wyborcza  
-Jako informatyk gminny chcę opublikować wyniki, wszystkich komisji obwodowych w gminie, w biuletynie informacji publicznej.
-
-Proces
-1. Otwieram stronę drukarki
-2. Definiuje typ akcji wyborczej (prezydenckie, referendum itp.) 
-3. Wygenerowane przez Kalkulator Wyborczy pliki JSON wgrywam przy 
-  * pomocy drag&drop 
-  * klasycznie klikając w przycisk dodaj 
-4. Wgrane protokoły są natychmiast wyświetlane w formie tabeli
-5. Bezpośredni wydruk z przeglądarki (nagłówek, stopka, numeracja stron)
-
-Dodatkowe opcje 
-* automatyczna identyfikacja akcji wyborczej na podstawie pliku JSON
-* możliwość ręcznej edycji nagłówka i stopki
-* eksport całości do pliku JSON 
+Aplikacja [ODW]() (Otwarta Drukarka Wyborcza)
 
 
 # Historia
