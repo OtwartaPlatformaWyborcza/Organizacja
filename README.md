@@ -15,7 +15,6 @@ Sortowanie alfabetyczne po imieniu.
 | MarcinT | AngularJS |
 | PawełP | Architektura, Java |
 | PrzemekJ | Analiza |
-| RafałR | Analiza |
 | RobertP | Analiza |
 
 #Jak do nas dołączyć?
