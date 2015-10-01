@@ -23,12 +23,12 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 | ------------- | ------------- | ------------- |
 | opw-pre-base | `.entity` `.bean` `.api` | JPA, API |
 | opw-pre-managemet | `.view` `.dto` `.controller` | Maski administracyjne (JSF 2.2) |
-| opw-pre-register | `.view` `.dto` `.controller` | Formularz rejestracji wolontariusza (JSF 2.2) |
+| [opw-pre-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-register) | `.register` | Formularz rejestracji wolontariusza (JSF 2.2) |
 | opw-pre-ws-inbound | `.service` `.dto` `.controller` | Serwis importu - zapis do bazy danych |
 | opw-pre-ws-outbound | `.service` `.dto` `.controller` | Serwis eksportu - odczyt bazy danych |
 | opw-pre-ws-managemet | `.service` `.dto` `.controller` | Serwis administracyjny |
-| opw-pre-ws-register | `.service` `.controller` | Serwis rejestracji |
-| opw-pre-ws-register-model | `.model` | Definicja API, walidacja jak i klasy DTO.  |
+| [opw-pre-ws-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register) | `.entity` `.bean` | Serwis rejestracji |
+| [opw-pre-ws-register-model](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register-model) | `.model` | Definicja API, walidacja jak i klasy DTO.  |
 
 ### Struktura pakietów (backend)
 `pl.otwartapw.opw.pre.api`  
