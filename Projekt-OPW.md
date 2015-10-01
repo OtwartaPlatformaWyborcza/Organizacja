@@ -28,7 +28,7 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 | opw-pre-ws-outbound | `.service` `.dto` `.controller` | Serwis eksportu - odczyt bazy danych |
 | opw-pre-ws-managemet | `.service` `.dto` `.controller` | Serwis administracyjny |
 | opw-pre-ws-register | `.service` `.controller` | Serwis rejestracji |
-| opw-pre-ws-register-model | `.service` `.dto` `.controller` | API, DTO |
+| opw-pre-ws-register-model | `.model` | Definicja API, walidacja jak i klasy DTO.  |
 
 ### Struktura pakietów (backend)
 `pl.otwartapw.opw.pre.api`  
