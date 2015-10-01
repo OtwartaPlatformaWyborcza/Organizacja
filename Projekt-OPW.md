@@ -19,16 +19,16 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 
 ### Artefakty
 
-| Artefakt | Paczki | Kommentarz |
+| Nazwa | Typ | Kommentarz |
 | ------------- | ------------- | ------------- |
-| opw-pre-base | `.entity` `.bean` `.api` | JPA, API |
-| opw-pre-managemet | `.view` `.dto` `.controller` | Maski administracyjne (JSF 2.2) |
-| [opw-pre-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-register) | `.register` | Formularz rejestracji wolontariusza (JSF 2.2) |
-| opw-pre-ws-inbound | `.service` `.dto` `.controller` | Serwis importu - zapis do bazy danych |
-| opw-pre-ws-outbound | `.service` `.dto` `.controller` | Serwis eksportu - odczyt bazy danych |
-| opw-pre-ws-managemet | `.service` `.dto` `.controller` | Serwis administracyjny |
-| [opw-pre-ws-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register) | `.entity` `.bean` | Serwis rejestracji |
-| [opw-pre-ws-register-model](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register-model) | `.model` | Definicja API, walidacja jak i klasy DTO.  |
+| opw-pre-base | war | JPA, API |
+| opw-pre-managemet |  | Maski administracyjne (JSF 2.2) |
+| [opw-pre-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-register) | war | Formularz rejestracji wolontariusza (JSF 2.2) |
+| opw-pre-ws-inbound | war | Serwis importu - zapis do bazy danych |
+| opw-pre-ws-outbound | war | Serwis eksportu - odczyt bazy danych |
+| opw-pre-ws-managemet | war | Serwis administracyjny |
+| [opw-pre-ws-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register) | war | Serwis rejestracji |
+| [opw-pre-ws-register-model](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register-model) | jar | Definicja API, walidacja jak i klasy DTO.  |
 
 ### Struktura pakietów (backend)
 `pl.otwartapw.opw.pre.api`  
