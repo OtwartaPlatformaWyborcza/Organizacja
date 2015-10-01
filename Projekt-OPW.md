@@ -5,12 +5,12 @@ Celem projektu OPW nie jest kompletna implementacja wymagań sprecyzowanych prze
 # Architektura
 System OPW składa się z następujących, wpełni niezależnych modułów.
 
-| Moduł | Pakiet | Schemat DB | Kommentarz |
-| ------------- | ------------- | ------------- |
-| Referendum | `ref` | `opw_ref` |  Referendum ogólnokrajowe |
-| Prezydenckie  | `pre` | `opw_pre` |  Wybory prezydenckie |
-| Parlamentarne  | `par` | `opw_par` | Wybory parlamentarne (Sejm i Senat) |
-| Unia Europejska  | `eu` | ? | ? |
+| Akcja wyborcza | Moduł | Kommentarz |
+| ------------- | ------------- | ------------- | ------------- |
+| Referendum | `ref` | Referendum ogólnokrajowe |
+| Prezydenckie  | `pre` |  Wybory prezydenckie |
+| Parlamentarne  | `par` | Wybory parlamentarne (Sejm i Senat) |
+| Unia Europejska  | `eu` | ? |
 
 Poszczególne moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 
