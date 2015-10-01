@@ -22,7 +22,7 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 | Nazwa | Typ | Kommentarz |
 | ------------- | ------------- | ------------- |
 | opw-pre-base | war | JPA, API |
-| opw-pre-managemet |  | Maski administracyjne (JSF 2.2) |
+| opw-pre-managemet | war | Maski administracyjne (JSF 2.2) |
 | [opw-pre-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-register) | war | Formularz rejestracji wolontariusza (JSF 2.2) |
 | opw-pre-ws-inbound | war | Serwis importu - zapis do bazy danych |
 | opw-pre-ws-outbound | war | Serwis eksportu - odczyt bazy danych |
