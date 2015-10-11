@@ -7,8 +7,8 @@ System OPW składa się z następujących, wpełni niezależnych modułów.
 
 | Akcja wyborcza | Moduł | Kommentarz |
 | ------------- | ------------- | ------------- | ------------- |
+| Prezydenckie  | [opw-pre](https://github.com/OtwartaPlatformaWyborcza/opw-pre) |  Wybory prezydenckie |
 | Referendum | `ref` | Referendum ogólnokrajowe |
-| Prezydenckie  | `pre` |  Wybory prezydenckie |
 | Parlamentarne  | `par` | Wybory parlamentarne (Sejm i Senat) |
 | Unia Europejska  | `eu` | ? |
 
@@ -24,11 +24,11 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 | opw-pre-base | war | JPA, API |
 | opw-pre-managemet | war | Maski administracyjne (JSF 2.2) |
 | [opw-pre-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-register) | war | Formularz rejestracji wolontariusza (JSF 2.2) |
-| opw-pre-ws-inbound | war | Serwis importu - zapis do bazy danych |
-| opw-pre-ws-outbound | war | Serwis eksportu - odczyt bazy danych |
-| opw-pre-ws-managemet | war | Serwis administracyjny |
-| [opw-pre-ws-register](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register) | war | Serwis rejestracji |
-| [opw-pre-ws-register-model](https://github.com/OtwartaPlatformaWyborcza/opw-pre-ws-register-model) | jar | Definicja API, walidacja jak i klasy DTO.  |
+| opw-pre-inbound-ws | war | Serwis importu - zapis do bazy danych |
+| opw-pre-outbound-ws | war | Serwis eksportu - odczyt bazy danych |
+| opw-pre-managemet-ws | war | Serwis administracyjny |
+| opw-preregister-ws | war | Serwis rejestracji |
+| opw-pre-register-ws-api | jar | Definicja API, DTO, walidacji |
 
 ### Struktura pakietów (backend)
 `pl.otwartapw.opw.pre.api`  
@@ -38,10 +38,10 @@ Dedykowany moduł do obsługi wyborów prezydenckich.
 `pl.otwartapw.opw.pre.management.dto`  
 `pl.otwartapw.opw.pre.management.handler`  
 `pl.otwartapw.opw.pre.register`  
-`pl.otwartapw.opw.pre.ws.inbound`  
-`pl.otwartapw.opw.pre.ws.outbound`  
-`pl.otwartapw.opw.pre.ws.management`  
-`pl.otwartapw.opw.pre.ws.register`  
+`pl.otwartapw.opw.pre.inbound.ws`  
+`pl.otwartapw.opw.pre.outbound.ws`  
+`pl.otwartapw.opw.pre.management.ws`  
+`pl.otwartapw.opw.pre.register.ws`  
 
 ### Aplikacje klienckie
 `opw-client-obwodowa-angularjs`  
@@ -58,10 +58,10 @@ Dedykowany moduł do obsługi referendum.
 | opw-ref-base | war | Dokumentacja, Analiza, JPA, DTO  |
 | opw-ref-management | war | Maski administracyjne |
 | opw-ref-register | war | Formularz rejestracji wolontariusza |
-| opw-ref-ws-inbound | war | Serwis importu danych |
-| opw-ref-ws-outbound | war | Serwis eksportu danych |
-| opw-ref-ws-management | war | Serwis administracyjny REST  |
-| opw-ref-ws-register | war | Serwis rejestracji wolontariusza |
+| opw-ref-inbound-ws | war | Serwis importu danych |
+| opw-ref-outbound-ws | war | Serwis eksportu danych |
+| opw-ref-management-ws | war | Serwis administracyjny REST  |
+| opw-ref-register-ws | war | Serwis rejestracji wolontariusza |
 
 ### Artefakty Frontend
 * opw-ref-dashboad
