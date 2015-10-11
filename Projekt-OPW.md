@@ -8,9 +8,9 @@ System OPW składa się z następujących, wpełni niezależnych modułów.
 | Akcja wyborcza | Moduł | Kommentarz |
 | ------------- | ------------- | ------------- | ------------- |
 | Prezydenckie  | [opw-pre](https://github.com/OtwartaPlatformaWyborcza/opw-pre) |  Wybory prezydenckie |
-| Referendum | `ref` | Referendum ogólnokrajowe |
-| Parlamentarne  | `par` | Wybory parlamentarne (Sejm i Senat) |
-| Unia Europejska  | `eu` | ? |
+| Referendum | `opw-ref` | Referendum ogólnokrajowe |
+| Parlamentarne  | `opw-par` | Wybory parlamentarne (Sejm i Senat) |
+| Unia Europejska  | `opw-eu` | ? |
 
 Poszczególne moduły są zdefiniowanie jako pakiety wewnątrz `pl.otwartapw.opw`.
 
